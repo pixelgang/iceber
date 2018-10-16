@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.tranapps.iceberg" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.tranapps.iceberg" version="2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Iceberg Zombie</name>
 	<description>Help Iceberg Zombie get back to the horde, he is lost.</description>
-	<author href="http://www.tran.agency" email="support@tran.agency">tran apps</author>
+	<author href="http://www.digitalharmony.agency" email="support@digitalharmony.agency">tran apps</author>
 
 	<icon src="www/icon-256.png" width="256" height="256" density="xxxhdpi" />
 	<icon src="www/icon-128.png" width="128" height="128" density="xhdpi" />
